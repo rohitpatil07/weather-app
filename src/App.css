@@ -90,4 +90,8 @@ p {
     .city {
         padding: 40px 20%;
     }
+
+    .main-container {
+        width: 100%;
+    }
 }
